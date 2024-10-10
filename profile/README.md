@@ -15,7 +15,7 @@ We take pride in offering a variety of premium templates, designed with precisio
   A powerful and highly customizable admin dashboard template.
   
 - **Quasar Prime Admin Template**:  
-  _50 Happy Customers_  
+  _51 Happy Customers_  
   A modern and sleek admin template known for its robust functionality and user-friendly interface.
   
 - **Quasar Minimalist Design**:  
