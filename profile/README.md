@@ -19,7 +19,7 @@ We take pride in offering a variety of premium templates, designed with precisio
   A modern and sleek admin template known for its robust functionality and user-friendly interface.
   
 - **Quasar Minimalist Design**:  
-  _10 Happy Customers_  
+  _11 Happy Customers_  
   A clean, minimalist admin dashboard template ideal for users who prefer simplicity without sacrificing features.
 
 ## Why Choose Us?
