@@ -11,7 +11,7 @@ In addition to our high-quality templates, we offer expert consulting services t
 We take pride in offering a variety of premium templates, designed with precision and attention to detail. Here's a quick benchmark of our popular templates:
 
 - **Quasar-Admin-Premium**:  
-  _14 Customers_  
+  _15 Customers_  
   A powerful and highly customizable admin dashboard template.
   
 - **Quasar Prime Admin Template**:  
